@@ -1,11 +1,11 @@
-[![Masterhead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOrSzlBUNtNTA4vnr9nBGoz3WhCE_3fOHVIQ&s)](http://HarshitYadav5.io)
+[![Masterhead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](http://HarshitYadav5.io)
 <h1 align="center">Hi 👋, I'm Harshit Raj Yadav</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshityadav05&label=Profile%20views&color=0e75b6&style=flat" alt="harshityadav05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshityadav05" alt="harshityadav05" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshityadav05&label=Profile%20views&color=0e75b6&style=flat" alt="harshityadav05" /> </p>
 
 - 🌱 I’m currently learning **ReactJS , NodeJS**
 
